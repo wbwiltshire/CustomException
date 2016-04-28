@@ -1,4 +1,4 @@
-//Hello World
+//Custom Exception demo
 #include "main.h" 
 
 CustomException::CustomException(const string& m, int c) {
